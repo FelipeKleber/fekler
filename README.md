@@ -1,8 +1,7 @@
 Oi, Meu nome é Felipe
 - 👋 Hi, I’m @fekler
-- 👀 I’m interested in programimg :D
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on today I work Tecninical support.
+- 🌱 Estou aprendendo programação focado em Kotlin
+- 💞️ Hoje trabalho como suporte tecnico
 - 📫 How to reach me contact me in fekler.jobs@gmail.com
 
 <!---
